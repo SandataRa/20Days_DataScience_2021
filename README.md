@@ -5,7 +5,7 @@ Enthusiastic about Data, I have decided to challenge myself in learning Data Sci
  > *A journey of a thousand miles begins with a single step, LAO TZU*  
 
   
-## Homemade Learning Program  
+## The Learning Program  
 
 Here is the list of the concepts tackled daily during this challenge with the exercices references and sources associated to the posted codes: 
 
@@ -16,7 +16,11 @@ Here is the list of the concepts tackled daily during this challenge with the ex
 - **DAY 3:** [Python Programming Track 2](https://www.skillsoft.com/journey/python-novice-to-pythonista-1fe73a9b-d238-477e-bc15-273e52f8b7ba?track=a240f579-6c45-4716-8f6c-64d473ab9ece)  
 
 - **DAY 4:** [Python Programming Track 2](https://www.skillsoft.com/journey/python-novice-to-pythonista-1fe73a9b-d238-477e-bc15-273e52f8b7ba?track=a240f579-6c45-4716-8f6c-64d473ab9ece) | [SuperDataScience Homework Law of Large Numbers](https://www.superdatascience.com/courses/python-programming/module-2/homework-law-of-large-numbers-2)  
-  
+
+- **DAY 5:** [Python Programming Track 2](https://www.skillsoft.com/journey/python-novice-to-pythonista-1fe73a9b-d238-477e-bc15-273e52f8b7ba?track=a240f579-6c45-4716-8f6c-64d473ab9ece)  
+
+- **DAY 6:** [Python Programming Track 2](https://www.skillsoft.com/journey/python-novice-to-pythonista-1fe73a9b-d238-477e-bc15-273e52f8b7ba?track=a240f579-6c45-4716-8f6c-64d473ab9ece) | [SuperDataScience Homework Financial Statement Analysis](https://www.superdatascience.com/courses/python-programming/module-3/homework-financial-statement)
+
   
 ## Skills Badges 
 
