@@ -23,13 +23,14 @@ Here is the list of the concepts tackled daily during this challenge with the ex
 
 - **DAY 7:** [Python Programming Track 2](https://www.skillsoft.com/journey/python-novice-to-pythonista-1fe73a9b-d238-477e-bc15-273e52f8b7ba?track=a240f579-6c45-4716-8f6c-64d473ab9ece)
 
+- **DAY 8:** [SuperDataScience Module 4 - Matrices](https://www.superdatascience.com/courses/python-programming/module-4/homework-basketball-free-throws-2)
+
   
 ## Skills Badges 
 
 Here is the list of completion badges and certificates obtained during this challenge:  
 
-![Python Novice Badge!](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/742089)  
-
+![Python Novice Badge!](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/742089) ![Python Apprentice Badge!](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/776010)
 
 
 
