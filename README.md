@@ -27,6 +27,9 @@ Here is the list of the concepts tackled daily during this challenge with the ex
 
 - **DAY 9:** [SuperDataScience Homework Basketball Free Throws](https://www.superdatascience.com/courses/python-programming/module-4/homework-basketball-free-throws-2)  
 
+- **DAY 10:** [SuperDataScience Module 5 - Data Frames](https://www.superdatascience.com/courses/python-programming/module-5/importing-data-into-python) | [SuperDataScience Homework World Trends Homework](https://www.superdatascience.com/courses/python-programming/module-5/homework-world-trends-2)  
+
+
   
 ## Skills Badges 
 
