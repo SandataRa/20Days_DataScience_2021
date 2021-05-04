@@ -29,13 +29,17 @@ Here is the list of the concepts tackled daily during this challenge with the ex
 
 - **DAY 10:** [SuperDataScience Module 5 - Data Frames](https://www.superdatascience.com/courses/python-programming/module-5/importing-data-into-python) | [SuperDataScience Homework World Trends Homework](https://www.superdatascience.com/courses/python-programming/module-5/homework-world-trends-2)  
 
+- **DAY 11:** [Python - Introduction to NumPy for Multi-dimensional Data](https://bred.percipio.com/courses/142a6430-d900-11e8-8a17-cfd888227de4/videos/586440c0-d901-11e8-8a17-cfd888227de4?tab=content) | [SuperDataScience Module 6 - Advanced Visualization](https://www.superdatascience.com/courses/python-programming/module-6/homework-movie-domestic-gross) | [SuperDataScience Homework Movie Domestic % Gross](https://www.superdatascience.com/courses/python-programming/module-6/homework-movie-domestic-gross)  
+
 
   
 ## Skills Badges 
 
 Here is the list of completion badges and certificates obtained during this challenge:  
 
-![Python Novice Badge!](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/742089) ![Python Apprentice Badge!](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/776010)
+![Python Novice Badge!](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/742089) ![Python Apprentice Badge!](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/776010)  
+
+- **SuperDataScience Python A-Z:** [Certificate of Completion](https://sds-platform-public.s3.us-east-2.amazonaws.com/users/pPpxDpzGydQGPJn9r/course-certificates/mhC2Z2Hu9y3mKN3M7.pdf)
 
 
 
