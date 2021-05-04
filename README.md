@@ -37,7 +37,7 @@ Here is the list of the concepts tackled daily during this challenge with the ex
 
 Here is the list of completion badges and certificates obtained during this challenge:  
 
-![Python Novice Badge!](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/742089) ![Python Apprentice Badge!](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/776010)  
+![Python Novice Badge!](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/742089) ![Python Apprentice Badge!](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/776010) ![Python - Introduction to NumPy for Multi-dimensional Data](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/792309)  
 
 - **SuperDataScience Python A-Z:** [Certificate of Completion](https://sds-platform-public.s3.us-east-2.amazonaws.com/users/pPpxDpzGydQGPJn9r/course-certificates/mhC2Z2Hu9y3mKN3M7.pdf)
 
