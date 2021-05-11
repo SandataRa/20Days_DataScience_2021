@@ -31,7 +31,7 @@ Here is the list of the concepts tackled daily during this challenge with the ex
 
 - **DAY 11:** [Python - Introduction to NumPy for Multi-dimensional Data](https://bred.percipio.com/courses/142a6430-d900-11e8-8a17-cfd888227de4/videos/586440c0-d901-11e8-8a17-cfd888227de4?tab=content) | [SuperDataScience Module 6 - Advanced Visualization](https://www.superdatascience.com/courses/python-programming/module-6/homework-movie-domestic-gross) | [SuperDataScience Homework Movie Domestic % Gross](https://www.superdatascience.com/courses/python-programming/module-6/homework-movie-domestic-gross)  
 
-
+- **DAY 12:** [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)
   
 ## Skills Badges 
 
