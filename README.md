@@ -33,7 +33,7 @@ Here is the list of the concepts tackled daily during this challenge with the ex
 
 - **DAY 12:** [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)  
 
-- **DAY 13:** [Building a Data Science portfolio on Github](https://www.youtube.com/watch?v=1aXk2RViq3c&ab_channel=KenJee) | [My Data Science Portfolio](https://sandratrar.github.io/DataScience_Portfolio/)
+- **DAY 13:** [Building a Data Science portfolio on Github](https://www.youtube.com/watch?v=1aXk2RViq3c&ab_channel=KenJee) | [My Data Science Portfolio](https://sandratrar.github.io/DataScience_Portfolio/) | [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)  
  
 ## Skills Badges 
 
