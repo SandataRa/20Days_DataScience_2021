@@ -66,9 +66,7 @@ final_dataset = merged_dataset[['CountryName_x','CountryCode','BirthRate','Inter
 final_dataset.columns = ['CountryName','CountryCode','BirthRate','InternetUsers','IncomeGroup','Year_1960','Year_2013','Region']
 final_dataset
 
-
 # Visualisations
-import seaborn as sns
 
 # Regression Plot : Life Expectancy in 1960 vs BirthRate per Region
 vis3 = sns.lmplot(x='BirthRate',y='Year_1960', data = final_dataset ,fit_reg=False,                  hue = 'Region', height = 10, aspect = 1)
