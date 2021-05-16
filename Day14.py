@@ -1,5 +1,4 @@
 #Day 14
-
 #Compare average monthly income by education and attrition
 education_income_means = dataset_subset.groupby('EducationField').MonthlyIncome.mean()
 mean_dict = education_income_means.to_dict()
