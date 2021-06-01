@@ -38,12 +38,16 @@ Here is the list of the concepts tackled daily during this challenge with the ex
 - **DAY 14:** [Project - IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)  
 
 - **DAY 15:** [Excel with Python: Working with Excel Spreadsheets from Python](https://bred.percipio.com/courses/31dbd42e-0b18-4b8a-80ed-6c07fb8e32eb/videos/c55809ee-dd83-491c-bf08-f5132415c829) | [Project - IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)  
+
+- **DAY 16:** [Excel with Python: Performing Advanced Operations](https://bred.percipio.com/courses/1662d5d2-e88a-43fe-a518-48afbd47ef47/videos/7478bee1-5707-4d39-8178-97081fcb0666)   
  
 ## Skills Badges 
 
 Here is the list of completion badges and certificates obtained during this challenge:  
 
 ![Python Novice Badge!](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/742089) ![Python Apprentice Badge!](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/776010) ![Python - Introduction to NumPy for Multi-dimensional Data](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/792309) ![Excel with Python: Working with Excel Spreadsheets from Python](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/862935)  
+
+![Excel with Python: Performing Advanced Operations](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/866934)  
 
 - **SuperDataScience Python A-Z:** [Certificate of Completion](https://sds-platform-public.s3.us-east-2.amazonaws.com/users/pPpxDpzGydQGPJn9r/course-certificates/mhC2Z2Hu9y3mKN3M7.pdf)
 
