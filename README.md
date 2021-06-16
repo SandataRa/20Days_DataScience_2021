@@ -42,6 +42,8 @@ Here is the list of the concepts tackled daily during this challenge with the ex
 - **DAY 16:** [Excel with Python: Performing Advanced Operations](https://bred.percipio.com/courses/1662d5d2-e88a-43fe-a518-48afbd47ef47/videos/7478bee1-5707-4d39-8178-97081fcb0666)  
 
 - **DAY 17:** [Excel with Python: Constructing Data Visualizations](https://bred.percipio.com/courses/f3d1826e-9ab5-423b-8f26-896576cf37f0/videos/c81f74ba-0be1-4242-a632-da763c5b7900)  
+
+- **DAY 18:** [Project - US Airlines Bumpings 2016-2017](https://github.com/SandratraR/DataScience_Portfolio/blob/main/Project_Airlines_Bumpings.md) | [My Data Science Portfolio](https://sandratrar.github.io/DataScience_Portfolio/)  
  
 ## Skills Badges 
 
