@@ -44,6 +44,10 @@ Here is the list of the concepts tackled daily during this challenge with the ex
 - **DAY 17:** [Excel with Python: Constructing Data Visualizations](https://bred.percipio.com/courses/f3d1826e-9ab5-423b-8f26-896576cf37f0/videos/c81f74ba-0be1-4242-a632-da763c5b7900)  
 
 - **DAY 18:** [Project - US Airlines Bumpings 2016-2017](https://github.com/SandratraR/DataScience_Portfolio/blob/main/Project_Airlines_Bumpings.md) | [My Data Science Portfolio](https://sandratrar.github.io/DataScience_Portfolio/)  
+
+- **DAY 19:** [Kaggle - Lesson N°1](https://www.kaggle.com/residentmario/creating-reading-and-writing) | [Kaggle - Lesson N°2](https://www.kaggle.com/residentmario/indexing-selecting-assigning) | [Kaggle - Lesson N°3](https://www.kaggle.com/residentmario/summary-functions-and-maps)  
+
+
  
 ## Skills Badges 
 
