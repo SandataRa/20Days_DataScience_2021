@@ -1,4 +1,4 @@
-# Day 20: The Conclusion of this challenge 
+# The Conclusion of this challenge 
 
 This last day is about the conclusion I took from this 20 days data science challenge 2021. As the end of the year is coming, what a better time for retrospection. This entry is about my approach and motivation. Maybe it can be helpful to someone struggling to start a similar path.  
 
@@ -35,7 +35,7 @@ My challenge per se didn't even start at this point but it was important for me 
 
 It is important to mention that I didn't design the program for completion. I designed it to learn knew things daily and build the habit of doing so. It was also a good activity to keep my mind busy during lockdown.  
 
-## PART 2: THE DAY BY DAY STRUGGLED 
+## PART 2: THE DAY BY DAY STRUGGLES 
   
 I explain how I designed my environment to optimize studying.
 
