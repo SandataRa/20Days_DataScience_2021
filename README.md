@@ -47,7 +47,7 @@ Here is the list of the concepts tackled daily during this challenge with the ex
 
 - **DAY 19:** [Project - Amazon Bestsellers 2009-2019](https://sandratrar.github.io/DataScience_Portfolio/Project_Amazon_bestsellers.html) | [My Data Science Portfolio](https://sandratrar.github.io/DataScience_Portfolio/)  
 
-- **DAY 20:** []()  
+- **DAY 20:** [Conclusions of the challenge](Day20.md)  
  
 ## Skills Badges 
 
