@@ -33,7 +33,7 @@ Here is the list of the concepts tackled daily during this challenge with the ex
 
 - **DAY 12:** [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)  
 
-- **DAY 13:** [Building a Data Science portfolio on Github](https://www.youtube.com/watch?v=1aXk2RViq3c&ab_channel=KenJee) | [My Data Science Portfolio](https://sandratrar.github.io/DataScience_Portfolio/) | [Project - IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)  
+- **DAY 13:** [Building a Data Science portfolio on Github](https://www.youtube.com/watch?v=1aXk2RViq3c&ab_channel=KenJee) | [My Data Science Portfolio](https://sandratrar.github.io/My_Portfolio/) | [Project - IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)  
 
 - **DAY 14:** [Project - IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)  
 
@@ -43,9 +43,9 @@ Here is the list of the concepts tackled daily during this challenge with the ex
 
 - **DAY 17:** [Excel with Python: Constructing Data Visualizations](https://bred.percipio.com/courses/f3d1826e-9ab5-423b-8f26-896576cf37f0/videos/c81f74ba-0be1-4242-a632-da763c5b7900)  
 
-- **DAY 18:** [Project - US Airlines Bumpings 2016-2017](https://github.com/SandratraR/DataScience_Portfolio/blob/main/Project_Airlines_Bumpings.md) | [My Data Science Portfolio](https://sandratrar.github.io/DataScience_Portfolio/)  
+- **DAY 18:** [Project - US Airlines Bumpings 2016-2017](https://github.com/SandratraR/DataScience_Portfolio/blob/main/Project_Airlines_Bumpings.md) | [My Data Science Portfolio](https://sandratrar.github.io/My_Portfolio/)  
 
-- **DAY 19:** [Project - Amazon Bestsellers 2009-2019](https://sandratrar.github.io/DataScience_Portfolio/Project_Amazon_bestsellers.html) | [My Data Science Portfolio](https://sandratrar.github.io/DataScience_Portfolio/)  
+- **DAY 19:** [Project - Amazon Bestsellers 2009-2019](https://sandratrar.github.io/DataScience_Portfolio/Project_Amazon_bestsellers.html) | [My Data Science Portfolio](https://sandratrar.github.io/My_Portfolio/)  
 
 - **DAY 20:** [Conclusions of the challenge](Day20.md)  
  
