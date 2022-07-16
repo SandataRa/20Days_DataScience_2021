@@ -53,8 +53,8 @@ Here is the list of the concepts tackled daily during this challenge with the ex
 
 Here is the list of skills completion badges obtained during this challenge:  
 
-![Python Novice Badge!](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/742089) ![Python Apprentice Badge!](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/776010) ![Python - Introduction to NumPy for Multi-dimensional Data](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/792309) ![Excel with Python: Working with Excel Spreadsheets from Python](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/862935)  
-
+![Python Novice Badge!](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/742089) ![Python Apprentice Badge!](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/776010)  
+![Python - Introduction to NumPy for Multi-dimensional Data](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/792309) ![Excel with Python: Working with Excel Spreadsheets from Python](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/862935)   
 ![Excel with Python: Performing Advanced Operations](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/866934)  
 
 ## Certificates 
